@@ -1,0 +1,35 @@
+# RotorDynamics product page - image manifest
+# All files here are PLACEHOLDERS (grey boxes). Replace each with the real image,
+# same file name (PNG, ~1200 px wide). Used in content/libraries/rotordynamics/index.md.
+
+DEST_DIR: assets/images/rotordynamics/
+
+images:
+  - local: rd-hero.png
+    shows: "Hero: planetary gearbox / shaft-line model diagram in Modelon Impact"
+    source: "Screenshot of Examples.PlanetaryGearboxDemo or TwoStageGearboxDemo diagram"
+    status: placeholder
+
+  - local: rd-planetary-sidebands.png
+    shows: "Ring-accelerometer spectrum: sidebands at Zr +/- N, flexible vs rigid rim"
+    source: "Credibility notebook section 3.53, verify_planetary_sidebands() figure"
+    status: placeholder
+
+  - local: rd-spiral-bevel.png
+    shows: "Right-angle spiral-bevel drive"
+    source: "Diagram of Examples.SpiralBevelDriveDemo"
+    status: placeholder
+
+  - local: rd-scoreboard.png
+    shows: "V&V scoreboard: 464 / 464 checks passed"
+    source: "Credibility notebook section 5.5, show_scoreboard() header"
+    status: placeholder
+
+  - local: rd-traceability.png
+    shows: "In-model evidence annotations -> signed SSP Traceability records"
+    source: "New diagram, or render of Resources/Traceability/reports/RotorDynamics.md"
+    status: placeholder
+
+# Diagrams already real (copied from RotorDynamics/Resources/Documentation/Images
+# into static/images/rotordynamics/): bearing_fault_rig, envelope_chain, evidence_map,
+# ims_rig, kit_length_budget.

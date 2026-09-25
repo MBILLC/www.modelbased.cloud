@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-label="Envelope analysis — what §5.2 computes, and what it compares against">
+  <title>Envelope analysis — what §5.2 computes, and what it compares against</title>
+  <defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0a7d3f"/></marker>
+  <marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c8102e"/></marker>
+  <marker id="arrK" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker>
+</defs>
+  <rect width="960" height="480" fill="#ffffff"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#000000" font-weight="bold" x="16.0" y="26.0" text-anchor="start">Envelope analysis — what §5.2 computes, and what it compares against</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="45.0" text-anchor="start">The diagnostic chain a condition-monitoring system actually runs, applied to the model's output rather than to a measurement.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="16.0" y="84.0" text-anchor="start">three runs of the SAME rig</text>
+  <rect fill="#fdf0f2" stroke="#c8102e" stroke-width="1.8" x="30.00" y="96.00" width="280.00" height="42.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#c8102e" font-weight="bold" x="170.0" y="123.0" text-anchor="middle">outer-ring fault</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="170.00" y1="140.00" x2="170.00" y2="152.00"/>
+  <rect fill="#fdf6ec" stroke="#b26b00" stroke-width="1.6" x="330.00" y="96.00" width="280.00" height="42.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#b26b00" font-weight="bold" x="470.0" y="123.0" text-anchor="middle">inner-ring fault</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="470.00" y1="140.00" x2="470.00" y2="152.00"/>
+  <rect fill="#eef7f0" stroke="#0a7d3f" stroke-width="1.6" x="630.00" y="96.00" width="280.00" height="42.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#0a7d3f" font-weight="bold" x="770.0" y="123.0" text-anchor="middle">healthy — the CONTROL</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="770.00" y1="140.00" x2="770.00" y2="152.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="170.00" y1="152.00" x2="770.00" y2="152.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="114.00" y1="152.00" x2="114.00" y2="168.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="114.00" y1="152.00" x2="170.00" y2="152.00"/>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="30.00" y="172.00" width="168.00" height="72.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="114.0" y="203.0" text-anchor="middle">displacement</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="114.0" y="223.0" text-anchor="middle">rRotor.r_out[1..2]</text>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="216.00" y="172.00" width="168.00" height="72.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="300.0" y="203.0" text-anchor="middle">high-pass</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="300.0" y="223.0" text-anchor="middle">4th order, 300 Hz</text>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="402.00" y="172.00" width="168.00" height="72.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="486.0" y="203.0" text-anchor="middle">Hilbert</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="486.0" y="223.0" text-anchor="middle">|analytic signal|</text>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="588.00" y="172.00" width="168.00" height="72.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="672.0" y="203.0" text-anchor="middle">FFT</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="672.0" y="223.0" text-anchor="middle">Hann, 6 → 8 s window</text>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="774.00" y="172.00" width="168.00" height="72.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="858.0" y="203.0" text-anchor="middle">lines read out</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="858.0" y="223.0" text-anchor="middle">BPFO, BPFI, f_shaft</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="200.00" y1="208.00" x2="214.00" y2="208.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="386.00" y1="208.00" x2="400.00" y2="208.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="572.00" y1="208.00" x2="586.00" y2="208.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="758.00" y1="208.00" x2="772.00" y2="208.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="858.00" y1="246.00" x2="858.00" y2="272.00" marker-end="url(#arrK)"/>
+  <rect fill="#eef7f0" stroke="#0a7d3f" stroke-width="1.6" x="30.00" y="286.00" width="900.00" height="92.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="312.0" text-anchor="start">compared against geometry alone — nothing here is fitted</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="336.0" text-anchor="start">BPFO = Z·k_cage·ω/2π</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="280.0" y="336.0" text-anchor="start">BPFI = Z·(1 − k_cage)·ω/2π, with sidebands at ± f_shaft</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="356.0" text-anchor="start">k_cage = (1 − (d/D)·cos α)/2</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="280.0" y="356.0" text-anchor="start">— ball count, ball and pitch diameter, contact angle, shaft speed</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="418.0" text-anchor="start">The three runs differ by one parameter and nothing else — same rig, same solver settings, same window — so a line present in one column and absent in another is attributable to the fault.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="435.0" text-anchor="start">The claim being validated is the SIGNATURE the context of use needs: a line where diagnosis expects one, and none in the control. It is not a claim about amplitude.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="452.0" text-anchor="start">Both sensor axes are analysed, because the fault sits at phi_fault = 45° and a single-channel read-out is a mounting choice, not a property of the machine.</text>
+</svg>

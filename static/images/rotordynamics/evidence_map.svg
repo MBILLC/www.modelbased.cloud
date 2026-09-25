@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="580" viewBox="0 0 960 580" role="img" aria-label="Validation evidence map — what each claim is compared against">
+  <title>Validation evidence map — what each claim is compared against</title>
+  <defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0a7d3f"/></marker>
+  <marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c8102e"/></marker>
+  <marker id="arrK" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker>
+</defs>
+  <rect width="960" height="580" fill="#ffffff"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#000000" font-weight="bold" x="16.0" y="26.0" text-anchor="start">Validation evidence map — what each claim is compared against</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="45.0" text-anchor="start">A verification claim is only as strong as the reference it is measured against. These are the five classes of reference this report uses, and nothing in it rests on a sixth.</text>
+  <rect fill="#eef7f0" stroke="#0a7d3f" stroke-width="1.6" x="30.00" y="78.00" width="640.00" height="74.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="106.0" text-anchor="start">Closed form, derived independently in Python</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="126.0" text-anchor="start">impulse kinematics · Jeffcott response · whirl eigenvalues · Newton on the thrust line</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="142.0" text-anchor="start">series axial stiffness · Love's ring frequencies</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="690.00" y="94.00" width="240.00" height="42.00" rx="6"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="810.0" y="120.0" text-anchor="middle">§3.1–3.8, 3.40–3.44, 3.50</text>
+  <rect fill="#eef7f0" stroke="#0a7d3f" stroke-width="1.6" x="30.00" y="164.00" width="640.00" height="74.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="192.0" text-anchor="start">Analytic expansion of the component's own geometry</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="212.0" text-anchor="start">contact-ratio square wave → mesh harmonics · cage ratio with contact angle</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="228.0" text-anchor="start">planetary ratio and mesh phasing</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="690.00" y="180.00" width="240.00" height="42.00" rx="6"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="810.0" y="206.0" text-anchor="middle">§3.30, 3.38, 3.48–3.49</text>
+  <rect fill="#eef3f8" stroke="#5a7fa8" stroke-width="1.6" x="30.00" y="250.00" width="640.00" height="74.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="278.0" text-anchor="start">A control experiment — the same rig with one thing changed</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="298.0" text-anchor="start">healthy vs. faulted bearing · healthy vs. spalled tooth · flexible vs. rigid ring rim</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="314.0" text-anchor="start">friction on vs. off</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="690.00" y="266.00" width="240.00" height="42.00" rx="6"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="810.0" y="292.0" text-anchor="middle">§3.31, 3.32, 3.53, §5.2</text>
+  <rect fill="#fdf6ec" stroke="#b26b00" stroke-width="1.6" x="30.00" y="336.00" width="640.00" height="74.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="364.0" text-anchor="start">Published measurement</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="384.0" text-anchor="start">Ishibashi et al. (2017) Table 1 / Fig. 10: first critical speed, run-up deflection</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="690.00" y="352.00" width="240.00" height="42.00" rx="6"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="810.0" y="378.0" text-anchor="middle">§4.1, §5.3</text>
+  <rect fill="#fdf6ec" stroke="#b26b00" stroke-width="1.6" x="30.00" y="422.00" width="640.00" height="74.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="46.0" y="450.0" text-anchor="start">Real recorded data</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="46.0" y="470.0" text-anchor="start">IMS/Univ. of Cincinnati run-to-failure rig, four accelerometer channels at 20 kHz</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="690.00" y="438.00" width="240.00" height="42.00" rx="6"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="810.0" y="464.0" text-anchor="middle">§4.3</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="528.0" text-anchor="start">Reading down the column: the top two classes are exact (agreement to machine precision is expected and reported as such); the bottom two carry a stated tolerance and a stated bias.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="545.0" text-anchor="start">No claim in this report is validated against another run of the same model — that is a consistency check, and where one is used it is labelled as one.</text>
+</svg>

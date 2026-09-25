@@ -90,6 +90,13 @@ menus:
       parent: "libraries"
       weight: 5
 
+    - pageRef: "RotorDynamics"
+      identifier: "RotorDynamics"
+      name: "RotorDynamics Library"
+      url: "/libraries/rotordynamics/"
+      parent: "libraries"
+      weight: 6
+
     - pageRef: "tools"
       identifier: "tools"
       name: "Tools"

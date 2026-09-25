@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="Ishibashi rotor kit — the length budget behind the §5.3 critical speed">
+  <title>Ishibashi rotor kit — the length budget behind the §5.3 critical speed</title>
+  <defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0a7d3f"/></marker>
+  <marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c8102e"/></marker>
+  <marker id="arrK" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker>
+</defs>
+  <rect width="960" height="420" fill="#ffffff"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#000000" font-weight="bold" x="16.0" y="26.0" text-anchor="start">Ishibashi rotor kit — the length budget behind the §5.3 critical speed</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="45.0" text-anchor="start">Table 1 lists every axial length but one. Which value closes the stated 500 mm total is the whole difference between the two reconstructions.</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="60.00" y="148.00" width="60.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="90.0" y="170.0" text-anchor="middle">L1</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="90.0" y="187.0" text-anchor="middle">50</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="120.00" y="148.00" width="18.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="129.0" y="170.0" text-anchor="middle">L2</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="129.0" y="187.0" text-anchor="middle">15</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="138.00" y="148.00" width="216.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="246.0" y="170.0" text-anchor="middle">L3</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="246.0" y="187.0" text-anchor="middle">180</text>
+  <rect fill="#d5dde6" stroke="#333333" stroke-width="1.6" x="354.00" y="148.00" width="74.40" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="391.2" y="170.0" text-anchor="middle">L4</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="391.2" y="187.0" text-anchor="middle">62</text>
+  <rect fill="#fdf0f2" stroke="#c8102e" stroke-width="1.8" x="428.40" y="148.00" width="216.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#c8102e" font-weight="bold" x="536.4" y="170.0" text-anchor="middle">?</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="536.4" y="187.0" text-anchor="middle">180</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#c8102e" font-weight="bold" x="536.4" y="134.0" text-anchor="middle">not listed in Table 1</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="644.40" y="148.00" width="18.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="653.4" y="170.0" text-anchor="middle">L2</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="653.4" y="187.0" text-anchor="middle">15</text>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="662.40" y="148.00" width="60.00" height="48.00" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="692.4" y="170.0" text-anchor="middle">L5</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="692.4" y="187.0" text-anchor="middle">50</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="60.0" y="108.0" text-anchor="start">the six listed items sum to 372 mm</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="60.00" y1="234.00" x2="722.40" y2="234.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="60.00" y1="228.00" x2="60.00" y2="240.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="722.40" y1="228.00" x2="722.40" y2="240.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" stroke-dasharray="3 3" x1="722.40" y1="200.00" x2="722.40" y2="226.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="736.4" y="239.0" text-anchor="start">total 552 mm — symmetric 180 / 180</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="60.00" y1="280.00" x2="660.00" y2="280.00" marker-end="url(#arrK)"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="60.00" y1="274.00" x2="60.00" y2="286.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="660.00" y1="274.00" x2="660.00" y2="286.00"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" stroke-dasharray="3 3" x1="660.00" y1="200.00" x2="660.00" y2="272.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#0a7d3f" font-weight="bold" x="674.0" y="285.0" text-anchor="start">total 500 mm — asymmetric 180 / 128</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" stroke-dasharray="3 3" x1="60.00" y1="200.00" x2="60.00" y2="288.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="344.0" text-anchor="start">A 180 mm right span makes the rotor symmetric but gives a 552 mm shaft, contradicting Table 1's own stated 500 mm total.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="361.0" text-anchor="start">A 128 mm right span closes the budget exactly, and is the reconstruction §5.3 reports against the paper's 1600 rpm.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="378.0" text-anchor="start">No parameter is tuned to fit the critical speed: the only thing that changes between the two rows is which reading of the length budget is believed.</text>
+</svg>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 680 610"
+   font-family="Helvetica, Arial, sans-serif"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="evidence_travels_with_model.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.4754098"
+     inkscape:cx="339.94371"
+     inkscape:cy="305"
+     inkscape:window-width="3200"
+     inkscape:window-height="1712"
+     inkscape:window-x="4792"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <metadata
+     id="metadata1">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjZTg4Y2E1Zi05NWM4LTRkNmQtYTQ5MC1kYzFlZTQ1Njg1MDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEME0sAVQvyUcf8VDtZQ1FoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyZTQ5Yzg4Ny02ZDFmLTQ4NmMtYWFiOS0xYTA3OGI0NmU2Y2ZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoaE7gmfMSOvoQELnzNHE7mwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggMKxP3k/upYHIkr6Hu6WvxBbx8/ATVaZPzGx/vvFW6v2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFgZI1gw1kBaSHTeWfjxB7kAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCYyLwKnQLCShTrODedv6eR/SooJxYj+KAsl9b7r6nzeGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBioZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNlODhjYTVmLTk1YzgtNGQ2ZC1hNDkwLWRjMWVlNDU2ODUwMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE3MzU2NzkxLTA0NzMtNDhjMi1iYWRmLWVjZTEzZWVhZjNmNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAwrE/eT+6lgciSvoe7pa/EFvHz8BNVpk/MbH++8Vbq/aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfVtNMV4/HcMLCe6xnLD9JtJlI9jjr2+qQn2MN+Chi5KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggt0NRBMKyG25uyiJj3sgsgDn03bTW96kUKhu6srOV2P50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLIokKkAzDxMIEuPIzPgJKTUnYxCSQMblgzA8KoqWMu4z4qk4zAffVjg9XstiGUj7ccYNYFMJBT/do/9Uohr0oo=</c2pa:manifest>
+  </metadata>
+  <title
+     id="title1">Evidence that travels with the model</title>
+  <defs
+     id="defs2">
+    <marker
+       id="arr-blue"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 1 1 L 9 5 L 1 9"
+         fill="none"
+         stroke="#1560BD"
+         stroke-width="1.8"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path1" />
+    </marker>
+    <marker
+       id="arr-amber"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 1 1 L 9 5 L 1 9"
+         fill="none"
+         stroke="#B26A00"
+         stroke-width="1.8"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Legend (upper right) -->
+  <g
+     id="legend">
+    <rect
+       x="456"
+       y="20"
+       width="184"
+       height="74"
+       rx="6"
+       fill="#F5F5F5"
+       stroke="#BBBBBB"
+       id="rect2" />
+    <text
+       x="468"
+       y="40"
+       font-size="12"
+       font-weight="bold"
+       fill="#333333"
+       id="text2">Legend</text>
+    <line
+       x1="468"
+       y1="58"
+       x2="506"
+       y2="58"
+       stroke="#1560BD"
+       stroke-width="2"
+       marker-end="url(#arr-blue)"
+       id="line2" />
+    <text
+       x="514"
+       y="62"
+       font-size="11"
+       fill="#333333"
+       id="text3">generated / checked</text>
+    <line
+       x1="468"
+       y1="80"
+       x2="506"
+       y2="80"
+       stroke="#B26A00"
+       stroke-width="2"
+       stroke-dasharray="6 4"
+       marker-end="url(#arr-amber)"
+       id="line3" />
+    <text
+       x="514"
+       y="84"
+       font-size="11"
+       fill="#333333"
+       id="text4">same evidence, side-car</text>
+  </g>
+  <!-- Modelica library: the source of truth -->
+  <g
+     id="library">
+    <rect
+       x="40"
+       y="110"
+       width="260"
+       height="326"
+       rx="10"
+       fill="#FAFAFA"
+       stroke="#888888"
+       stroke-width="1.5"
+       id="rect4" />
+    <text
+       x="56"
+       y="134"
+       font-size="13"
+       font-weight="bold"
+       fill="#333333"
+       id="text5">Modelica library</text>
+    <text
+       x="56"
+       y="150"
+       font-size="11"
+       fill="#555555"
+       id="text6">evidence lives in the source</text>
+  </g>
+  <g
+     id="lib-components">
+    <rect
+       x="56"
+       y="164"
+       width="228"
+       height="56"
+       rx="6"
+       fill="#E8F5E9"
+       stroke="#2E7D32"
+       stroke-width="1.5"
+       id="rect6" />
+    <text
+       x="170"
+       y="187"
+       font-size="12"
+       font-weight="bold"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text7">Components</text>
+    <text
+       x="170"
+       y="205"
+       font-size="11"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text8">carry an evidence annotation</text>
+  </g>
+  <g
+     id="lib-tests">
+    <rect
+       x="56"
+       y="230"
+       width="228"
+       height="56"
+       rx="6"
+       fill="#E8F5E9"
+       stroke="#2E7D32"
+       stroke-width="1.5"
+       id="rect8" />
+    <text
+       x="170"
+       y="253"
+       font-size="12"
+       font-weight="bold"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text9">Test models</text>
+    <text
+       x="170"
+       y="271"
+       font-size="11"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text10">declare the claims they establish</text>
+  </g>
+  <g
+     id="lib-connectors">
+    <rect
+       x="56"
+       y="296"
+       width="228"
+       height="56"
+       rx="6"
+       fill="#E8F5E9"
+       stroke="#2E7D32"
+       stroke-width="1.5"
+       id="rect10" />
+    <text
+       x="170"
+       y="319"
+       font-size="12"
+       font-weight="bold"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text11">Connectors</text>
+    <text
+       x="170"
+       y="337"
+       font-size="11"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text12">declare their interface</text>
+  </g>
+  <g
+     id="lib-examples">
+    <rect
+       x="56"
+       y="362"
+       width="228"
+       height="56"
+       rx="6"
+       fill="#E8F5E9"
+       stroke="#2E7D32"
+       stroke-width="1.5"
+       id="rect12" />
+    <text
+       x="170"
+       y="385"
+       font-size="12"
+       font-weight="bold"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text13">Task-level examples</text>
+    <text
+       x="170"
+       y="403"
+       font-size="11"
+       fill="#1B5E20"
+       text-anchor="middle"
+       id="text14">declare their context of use</text>
+  </g>
+  <!-- Tooling -->
+  <g
+     id="tooling">
+    <rect
+       x="326"
+       y="244"
+       width="134"
+       height="72"
+       rx="8"
+       fill="#E3F0FF"
+       stroke="#1560BD"
+       stroke-width="1.5"
+       id="rect14" />
+    <text
+       x="393"
+       y="272"
+       font-size="12"
+       font-weight="bold"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text15">Tooling</text>
+    <text
+       x="393"
+       y="290"
+       font-size="11"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text16">reads annotations,</text>
+    <text
+       x="393"
+       y="304"
+       font-size="11"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text17">builds records</text>
+  </g>
+  <!-- Right column: records -> signature -> release gate -> release -->
+  <g
+     id="records">
+    <rect
+       x="500"
+       y="124"
+       width="140"
+       height="72"
+       rx="8"
+       fill="#E3F0FF"
+       stroke="#1560BD"
+       stroke-width="1.5"
+       id="rect17" />
+    <text
+       x="570"
+       y="148"
+       font-size="12"
+       font-weight="bold"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text18">Credibility records</text>
+    <text
+       x="570"
+       y="166"
+       font-size="11"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text19">SSP Traceability,</text>
+    <text
+       x="570"
+       y="182"
+       font-size="11"
+       fill="#0D3D8A"
+       text-anchor="middle"
+       id="text20">one per family</text>
+  </g>
+  <g
+     id="signed">
+    <rect
+       x="500"
+       y="218"
+       width="140"
+       height="56"
+       rx="8"
+       fill="#F3E5F5"
+       stroke="#6A1B9A"
+       stroke-width="1.5"
+       id="rect20" />
+    <text
+       x="570"
+       y="241"
+       font-size="12"
+       font-weight="bold"
+       fill="#4A148C"
+       text-anchor="middle"
+       id="text21">Signed</text>
+    <text
+       x="570"
+       y="259"
+       font-size="11"
+       fill="#4A148C"
+       text-anchor="middle"
+       id="text22">by the model owner</text>
+  </g>
+  <g
+     id="gate">
+    <rect
+       x="500"
+       y="296"
+       width="140"
+       height="56"
+       rx="8"
+       fill="#FFF3E0"
+       stroke="#E65100"
+       stroke-width="1.5"
+       id="rect22" />
+    <text
+       x="570"
+       y="319"
+       font-size="12"
+       font-weight="bold"
+       fill="#BF360C"
+       text-anchor="middle"
+       id="text23">Release gate</text>
+    <text
+       x="570"
+       y="337"
+       font-size="11"
+       fill="#BF360C"
+       text-anchor="middle"
+       id="text24">checks every release</text>
+  </g>
+  <g
+     id="release">
+    <rect
+       x="500"
+       y="374"
+       width="140"
+       height="56"
+       rx="8"
+       fill="#F5F5F5"
+       stroke="#888888"
+       stroke-width="1.5"
+       id="rect24" />
+    <text
+       x="570"
+       y="397"
+       font-size="12"
+       font-weight="bold"
+       fill="#333333"
+       text-anchor="middle"
+       id="text25">Library release</text>
+    <text
+       x="570"
+       y="415"
+       font-size="11"
+       fill="#333333"
+       text-anchor="middle"
+       id="text26">evidence included</text>
+  </g>
+  <!-- Side-car for encrypted distributions -->
+  <g
+     id="sidecar">
+    <rect
+       x="326"
+       y="462"
+       width="314"
+       height="64"
+       rx="8"
+       fill="#FFF8E1"
+       stroke="#F9A825"
+       stroke-width="1.5"
+       id="rect26" />
+    <text
+       x="483"
+       y="486"
+       font-size="12"
+       font-weight="bold"
+       fill="#795548"
+       text-anchor="middle"
+       id="text27">Encrypted commercial distribution</text>
+    <text
+       x="483"
+       y="504"
+       font-size="11"
+       fill="#795548"
+       text-anchor="middle"
+       id="text28">side-car in the library's Resources folder —</text>
+    <text
+       x="483"
+       y="518"
+       font-size="11"
+       fill="#795548"
+       text-anchor="middle"
+       id="text29">same content, different serialization</text>
+  </g>
+  <!-- Connections (single continuous paths, edge to edge) -->
+  <line
+     x1="300"
+     y1="280"
+     x2="322.70166"
+     y2="280"
+     stroke="#1560bd"
+     stroke-width="2"
+     marker-end="url(#arr-blue)"
+     id="line29" />
+  <path
+     d="m 460.0915,262.09374 h 18.39906 V 159.91645 h 18.39907"
+     fill="none"
+     stroke="#1560bd"
+     stroke-width="2"
+     marker-end="url(#arr-blue)"
+     id="path29" />
+  <line
+     x1="570"
+     y1="196"
+     x2="570"
+     y2="214.75639"
+     stroke="#1560bd"
+     stroke-width="2"
+     marker-end="url(#arr-blue)"
+     id="line30" />
+  <line
+     x1="570"
+     y1="274"
+     x2="570"
+     y2="293.11679"
+     stroke="#1560bd"
+     stroke-width="2"
+     marker-end="url(#arr-blue)"
+     id="line31" />
+  <line
+     x1="570"
+     y1="352"
+     x2="570"
+     y2="371.11679"
+     stroke="#1560bd"
+     stroke-width="2"
+     marker-end="url(#arr-blue)"
+     id="line32" />
+  <line
+     x1="393"
+     y1="316"
+     x2="393"
+     y2="458.42929"
+     stroke="#b26a00"
+     stroke-width="2"
+     stroke-dasharray="6, 4"
+     marker-end="url(#arr-amber)"
+     id="line33" />
+  <!-- Zone note -->
+</svg>

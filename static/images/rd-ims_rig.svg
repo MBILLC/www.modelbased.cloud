@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-label="IMS / University of Cincinnati bearing test rig — the calibration case of §4.3">
+  <title>IMS / University of Cincinnati bearing test rig — the calibration case of §4.3</title>
+  <defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0a7d3f"/></marker>
+  <marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c8102e"/></marker>
+  <marker id="arrK" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+          orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker>
+</defs>
+  <rect width="960" height="500" fill="#ffffff"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#000000" font-weight="bold" x="16.0" y="26.0" text-anchor="start">IMS / University of Cincinnati bearing test rig — the calibration case of §4.3</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="45.0" text-anchor="start">Real accelerometer data from a real machine: four bearings on one shaft, one channel each at 20 kHz. The only case in this report with measured data on every channel.</text>
+  <line fill="none" stroke="#888888" stroke-width="1.0" stroke-dasharray="6 3 1 3" x1="90.00" y1="250.00" x2="900.00" y2="250.00"/>
+  <rect fill="#c9d3dd" stroke="#333333" stroke-width="1.4" x="120.00" y="242.00" width="740.00" height="16.00" rx="0"/>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="230.00" cy="250.00" r="26.00"/>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="230.00" cy="250.00" r="10.92"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="248.11" cy="253.60" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="240.26" cy="265.35" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="226.40" cy="268.11" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="214.65" cy="260.26" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="211.89" cy="246.40" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="219.74" cy="234.65" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="233.60" cy="231.89" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="245.35" cy="239.74" r="4.16"/>
+  <path fill="none" stroke="#333333" stroke-width="1.4" d="M 221.0,278.0 L 229.0,285.8 L 213.0,301.5 L 229.0,317.2 L 213.0,332.8 L 229.0,348.5 L 213.0,364.2 L 221.0,372.0"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="241.00" y1="278.00" x2="241.00" y2="372.00"/>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="235.00" y="306.20" width="12.00" height="31.96" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="230.0" y="402.0" text-anchor="middle">support1</text>
+  <rect fill="#fff6b0" stroke="#8a7400" stroke-width="1.4" x="212.00" y="164.00" width="36.00" height="22.00" rx="3"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#b26b00" font-weight="bold" x="230.0" y="180.0" text-anchor="middle">acc</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="230.00" y1="186.00" x2="230.00" y2="220.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#c8102e" font-weight="bold" x="230.0" y="154.0" text-anchor="middle">bearing1</text>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="400.00" cy="250.00" r="26.00"/>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="400.00" cy="250.00" r="10.92"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="418.11" cy="253.60" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="410.26" cy="265.35" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="396.40" cy="268.11" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="384.65" cy="260.26" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="381.89" cy="246.40" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="389.74" cy="234.65" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="403.60" cy="231.89" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="415.35" cy="239.74" r="4.16"/>
+  <path fill="none" stroke="#333333" stroke-width="1.4" d="M 391.0,278.0 L 399.0,285.8 L 383.0,301.5 L 399.0,317.2 L 383.0,332.8 L 399.0,348.5 L 383.0,364.2 L 391.0,372.0"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="411.00" y1="278.00" x2="411.00" y2="372.00"/>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="405.00" y="306.20" width="12.00" height="31.96" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="400.0" y="402.0" text-anchor="middle">support2</text>
+  <rect fill="#fff6b0" stroke="#8a7400" stroke-width="1.4" x="382.00" y="164.00" width="36.00" height="22.00" rx="3"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#b26b00" font-weight="bold" x="400.0" y="180.0" text-anchor="middle">acc</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="400.00" y1="186.00" x2="400.00" y2="220.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="400.0" y="154.0" text-anchor="middle">bearing2</text>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="590.00" cy="250.00" r="26.00"/>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="590.00" cy="250.00" r="10.92"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="608.11" cy="253.60" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="600.26" cy="265.35" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="586.40" cy="268.11" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="574.65" cy="260.26" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="571.89" cy="246.40" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="579.74" cy="234.65" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="593.60" cy="231.89" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="605.35" cy="239.74" r="4.16"/>
+  <path fill="none" stroke="#333333" stroke-width="1.4" d="M 581.0,278.0 L 589.0,285.8 L 573.0,301.5 L 589.0,317.2 L 573.0,332.8 L 589.0,348.5 L 573.0,364.2 L 581.0,372.0"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="601.00" y1="278.00" x2="601.00" y2="372.00"/>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="595.00" y="306.20" width="12.00" height="31.96" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="590.0" y="402.0" text-anchor="middle">support3</text>
+  <rect fill="#fff6b0" stroke="#8a7400" stroke-width="1.4" x="572.00" y="164.00" width="36.00" height="22.00" rx="3"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#b26b00" font-weight="bold" x="590.0" y="180.0" text-anchor="middle">acc</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="590.00" y1="186.00" x2="590.00" y2="220.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="590.0" y="154.0" text-anchor="middle">bearing3</text>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="760.00" cy="250.00" r="26.00"/>
+  <circle fill="#ffffff" stroke="#333333" stroke-width="1.6" cx="760.00" cy="250.00" r="10.92"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="778.11" cy="253.60" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="770.26" cy="265.35" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="756.40" cy="268.11" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="744.65" cy="260.26" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="741.89" cy="246.40" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="749.74" cy="234.65" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="763.60" cy="231.89" r="4.16"/>
+  <circle fill="#5a7fa8" stroke="#33475c" stroke-width="1.0" cx="775.35" cy="239.74" r="4.16"/>
+  <path fill="none" stroke="#333333" stroke-width="1.4" d="M 751.0,278.0 L 759.0,285.8 L 743.0,301.5 L 759.0,317.2 L 743.0,332.8 L 759.0,348.5 L 743.0,364.2 L 751.0,372.0"/>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="771.00" y1="278.00" x2="771.00" y2="372.00"/>
+  <rect fill="#e8e8e8" stroke="#333333" stroke-width="1.6" x="765.00" y="306.20" width="12.00" height="31.96" rx="0"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="760.0" y="402.0" text-anchor="middle">support4</text>
+  <rect fill="#fff6b0" stroke="#8a7400" stroke-width="1.4" x="742.00" y="164.00" width="36.00" height="22.00" rx="3"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#b26b00" font-weight="bold" x="760.0" y="180.0" text-anchor="middle">acc</text>
+  <line fill="none" stroke="#555555" stroke-width="1.0" x1="760.00" y1="186.00" x2="760.00" y2="220.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="760.0" y="154.0" text-anchor="middle">bearing4</text>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="120.00" y1="372.00" x2="840.00" y2="372.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="120.00" y1="372.00" x2="111.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="210.00" y1="372.00" x2="201.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="300.00" y1="372.00" x2="291.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="390.00" y1="372.00" x2="381.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="480.00" y1="372.00" x2="471.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="570.00" y1="372.00" x2="561.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="660.00" y1="372.00" x2="651.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="750.00" y1="372.00" x2="741.00" y2="383.00"/>
+  <line fill="#9aa4ad" stroke="#9aa4ad" stroke-width="1.4" x1="840.00" y1="372.00" x2="831.00" y2="383.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#c8102e" font-weight="bold" x="230.0" y="140.0" text-anchor="middle">FAULTED</text>
+  <line fill="none" stroke="#0a7d3f" stroke-width="2.4" x1="470.00" y1="172.00" x2="470.00" y2="234.00" marker-end="url(#arr)"/>
+  <line fill="none" stroke="#0a7d3f" stroke-width="2.4" x1="520.00" y1="172.00" x2="520.00" y2="234.00" marker-end="url(#arr)"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#0a7d3f" font-weight="bold" x="495.0" y="162.0" text-anchor="middle">radial load 13.3 kN</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="495.0" y="146.0" text-anchor="middle">springLoad2 / springLoad3</text>
+  <circle fill="#d5dde6" stroke="#333333" stroke-width="1.6" cx="96.00" cy="250.00" r="18.00"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#111111" font-weight="bold" x="96.0" y="255.0" text-anchor="middle">ω</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="96.0" y="218.0" text-anchor="middle">2000 rpm</text>
+  <rect fill="#fdf6ec" stroke="#b26b00" stroke-width="1.6" x="640.00" y="62.00" width="304.00" height="104.00" rx="8"/>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12" fill="#111111" font-weight="bold" x="656.0" y="86.0" text-anchor="start">what §4.3 calibrates</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="656.0" y="108.0" text-anchor="start">k_pedestal, c_pedestal — support compliance</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="656.0" y="127.0" text-anchor="start">K_hertz, formFactor — fault-impulse amplitude</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#333333" x="656.0" y="146.0" text-anchor="start">support2/3/4.useLocalResonance — resonant branch</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="434.0" text-anchor="start">The KPI is the RMS RATIO simulated/measured per bearing, over a settled 300 ms window with the startup transient excluded (per-bearing margin).</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="451.0" text-anchor="start">Bearings 2–4 have no fault of their own, so everything they see has travelled through the shaft from bearing1 — which makes the ratio a test of the load path, not of the impulse.</text>
+  <text font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="11" fill="#444444" x="16.0" y="468.0" text-anchor="start">Nothing here is a measured stiffness: every parameter calibrated was an engineering placeholder beforehand, and the report says so rather than presenting it as identification.</text>
+</svg>
